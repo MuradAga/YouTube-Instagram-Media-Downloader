@@ -1,0 +1,22 @@
+C:\Users\murad\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\bin\Debug\net6.0-windows\YoutubeVideoDownloader.exe
+C:\Users\murad\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\bin\Debug\net6.0-windows\YoutubeVideoDownloader.deps.json
+C:\Users\murad\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\bin\Debug\net6.0-windows\YoutubeVideoDownloader.runtimeconfig.json
+C:\Users\murad\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\bin\Debug\net6.0-windows\YoutubeVideoDownloader.dll
+C:\Users\murad\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\bin\Debug\net6.0-windows\ref\YoutubeVideoDownloader.dll
+C:\Users\murad\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\bin\Debug\net6.0-windows\YoutubeVideoDownloader.pdb
+C:\Users\murad\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\murad\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\bin\Debug\net6.0-windows\NiL.JS.dll
+C:\Users\murad\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\bin\Debug\net6.0-windows\libvideo.dll
+C:\Users\murad\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\obj\Debug\net6.0-windows\YoutubeVideoDownloader.csproj.AssemblyReference.cache
+C:\Users\murad\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\obj\Debug\net6.0-windows\YoutubeVideoDownloader.Form1.resources
+C:\Users\murad\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\obj\Debug\net6.0-windows\YoutubeVideoDownloader.csproj.GenerateResource.cache
+C:\Users\murad\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\obj\Debug\net6.0-windows\YoutubeVideoDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murad\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\obj\Debug\net6.0-windows\YoutubeVideoDownloader.AssemblyInfoInputs.cache
+C:\Users\murad\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\obj\Debug\net6.0-windows\YoutubeVideoDownloader.AssemblyInfo.cs
+C:\Users\murad\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\obj\Debug\net6.0-windows\YoutubeVideoDownloader.csproj.CoreCompileInputs.cache
+C:\Users\murad\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\obj\Debug\net6.0-windows\YoutubeVideoDownloader.csproj.CopyComplete
+C:\Users\murad\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\obj\Debug\net6.0-windows\YoutubeVideoDownloader.dll
+C:\Users\murad\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\obj\Debug\net6.0-windows\ref\YoutubeVideoDownloader.dll
+C:\Users\murad\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\obj\Debug\net6.0-windows\YoutubeVideoDownloader.pdb
+C:\Users\murad\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\obj\Debug\net6.0-windows\YoutubeVideoDownloader.genruntimeconfig.cache
+C:\Users\murad\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\bin\Debug\net6.0-windows\Instadown NetCore.dll
